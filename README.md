@@ -9,7 +9,7 @@ A personal portfolio website showcasing my projects, achievements, certification
 
 ## About Me
 
-4th-year CSE student at BMSIT who spends way too much time breaking things (ethically, of course). I'm into cybersecurity and red teaming. I also build web apps and design interfaces when I'm not solving CTF puzzles. On the side, I invest in stocks and love watching those candlestick charts dance.
+Security researcher and software engineer who spends way too much time breaking things (ethically, of course). I'm passionate about cybersecurity, red teaming, and vulnerability research. I love building web applications, crafting clean user interfaces, and solving complex CTF challenges.
 
 *"Consistency can be invisible until it disappears."*
 
