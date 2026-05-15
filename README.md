@@ -1,7 +1,7 @@
 <h1>yo, sanath here 🐳 </h1>
 
-I break things for fun and build things for the challenge.
-Mostly into security, identity, and access control.
+I break things for fun and build things for the challenge.<br>
+Mostly into security, identity, and access control.<br>
 Sometimes I win hackathons. Sometimes I just vibe.
 
 hit me up → [sanathr](https://sanathr.me) · [linkedin](https://linkedin.com/in/sanathr)
